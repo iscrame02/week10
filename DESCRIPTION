@@ -1,9 +1,9 @@
 Package: week10
-Title: Week 10 Homework Package
+Title: Homework Package
 Version: 0.0.0.9000
 Authors@R: 
     person("Izzy", "Crame", , "crame@uoregon,edu", role = c("aut", "cre"))
-Description: In this package I have a few different custom functions.
+Description: In this assignment I have a few different custom functions.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
