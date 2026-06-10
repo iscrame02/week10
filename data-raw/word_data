@@ -1,0 +1,980 @@
+X,response,entry,cue
+1,1,1,dancers
+2,1,2,disciplined
+3,1,3,care a lot about apperance
+4,2,1,bossy
+5,3,1,degrees
+6,4,1,caring
+7,5,1,stay at home
+8,6,1,Housekeepers
+9,6,2,Custodians
+10,7,1,loud
+11,7,2,amazing cookers
+12,7,3,stylish
+13,7,4,loves spicy food
+14,7,5,popular with friends/school mates
+15,8,1,hyper sexualized
+16,8,2,more assumed to fit into traditional gender roles
+17,8,3,overly emotional
+18,8,4,seen as caretakers
+19,8,5,make good food
+20,9,1,Lower class
+21,9,2,Uneducated
+22,10,1,resilient
+23,10,2,loyal
+24,10,3,family
+25,10,4,caretaker only
+26,10,5,bootie
+27,10,6,pretty
+28,10,7,bad atitude
+29,11,1,Loud
+30,12,1,tone
+31,12,2,style
+32,13,1,Long hair
+33,13,2,Cooking
+34,14,1,amazing makeup
+35,14,2,hard workers
+36,15,1,accent
+37,15,2,behavior
+38,16,1,Ghetto
+39,16,2,Loud
+40,16,3,Unworthy
+41,17,1,Long nails
+42,17,2,Long hair
+43,17,3,lots of eyelashes
+44,18,1,sassy
+45,20,1,Work domestic jobs like house cleaning or nannying.
+46,20,2,"Seen as ""aggressive"" unfairly"
+47,21,1,promiscuous
+48,21,2,religious
+49,21,3,unhealthy
+50,22,1,N/A
+51,23,1,dancing
+52,23,2,heavier makeup
+53,24,1,housemaid
+54,24,2,dumb
+55,24,3,uneducated
+56,25,1,cooks
+57,25,2,mothers
+58,26,1,painted as sexy and desirable
+59,26,2,painted as emotional
+60,27,1,catholic
+61,27,2,family-oriented
+62,28,1,friendly
+63,28,2,good cook
+64,28,3,loud
+65,31,1,Shallow (golddigging)
+66,31,2,long nails
+67,31,3,accent
+68,31,4,has a lot of kids
+69,33,1,promiscuous
+70,33,2,ghetto
+71,33,3,loud
+72,33,4,sassy
+73,34,1,Good cooks
+74,34,2,Religious
+75,34,3,Family Women
+76,34,4,Loud
+77,34,5,Outspoken
+78,34,6,Dramatic
+79,35,1,Short
+80,35,2,Black hair
+81,35,3,Loud
+82,37,1,sex workers
+83,37,2,accent
+84,37,3,baddie
+85,37,4,welcoming
+86,38,1,sassy
+87,38,2,curvy
+88,38,3,rude
+89,38,4,quiet
+90,38,5,ghetto
+91,38,6,loving
+92,38,7,obssesive
+93,38,8,crazy
+94,38,9,slutty
+95,38,10,judgemental
+96,39,1,bipolar
+97,39,2,violent
+98,39,3,passionate
+99,39,4,motherly
+100,39,5,good cooks
+101,40,1,Hardworkers
+102,40,2,House
+103,40,3,Love
+104,41,1,Good housewifes
+105,41,2,Uneducated
+106,43,1,house wife
+107,43,2,non working
+108,44,1,lots of makeup
+109,44,2,esthetician
+110,45,1,curvey figures
+111,45,2,immodest clothing
+112,45,3,caretakers(don't work traditional jobs
+113,46,1,good cooks
+114,46,2,hardworking
+115,46,3,loving
+116,47,1,confident
+117,47,2,good at dancing
+118,48,1,loud
+119,48,2,dont work
+120,49,1,toxic
+121,49,2,agressive
+122,49,3,good cooks
+123,50,1,good-looking
+124,51,1,Family person
+125,52,1,Angry
+126,52,2,Good cooks
+127,52,3,Fake eyelashes
+128,52,4,Hot cheetos
+129,53,1,Hard working
+130,53,2,Strong
+131,53,3,Fighter
+132,53,4,Unseen
+133,53,5,Loving
+134,53,6,Tough
+135,53,7,Brave
+136,53,8,Cooking
+137,53,9,Cleaning
+138,53,10,Mom
+139,54,1,family oriented
+140,54,2,good cooks
+141,54,3,wise
+142,54,4,empathetic
+143,54,5,traditional
+144,54,6,ghetto
+145,54,7,"long, straight, brown hair"
+146,54,8,"makeup, lashes, nails"
+147,55,1,Cooks
+148,55,2,A lot of kids
+149,55,3,Works in cleaning
+150,55,4,Uneducated
+151,56,1,Fiery
+152,56,2,Hyper-sexualized/Hyperfertility
+153,56,3,Underrepresented
+154,56,4,Mental instability
+155,58,1,Toxic
+156,58,2,Beautiful
+157,60,1,sexual
+158,60,2,dancers
+159,60,3,domestic
+160,60,4,religious
+161,60,5,dangerous
+162,60,6,attractive
+163,61,1,Loud / over the top
+164,61,2,Stay at home or cleaning
+165,61,3,Lots of kids
+166,61,4,Better conversational english than the latin men
+167,61,5,More religious
+168,61,6,Higher expectations on kids
+169,61,7,Seen as less than
+170,62,1,Nails
+171,62,2,Hair Style
+172,62,3,Music
+173,63,1,They all speak Spanish
+174,65,1,sexy
+175,65,2,greedy
+176,65,3,manipulative
+177,66,1,loud
+178,68,1,Sexual
+179,68,2,Immigrants
+180,68,3,Hard Working
+181,68,4,Career Oriented
+182,68,5,Quiet
+183,69,1,Beautiful
+184,69,2,immigration
+185,69,3,uneducated English
+186,69,4,loud
+187,69,5,big families
+188,69,6,accent
+189,69,7,slasa
+190,69,8,chicken
+191,69,9,idk
+192,69,10,idk
+193,70,1,sexualized
+194,70,2,uneducated
+195,70,3,many children
+196,71,1,Cooks
+197,73,1,Fiesty
+198,73,2,Hot-Headed
+199,73,3,Overly sexualized
+200,75,1,hard working
+201,75,2,motherly
+202,75,3,good cooks
+203,75,4,loud/expressive
+204,75,5,creative
+205,77,1,baby makers
+206,78,1,beautiful
+207,78,2,caring
+208,78,3,lovable
+209,78,4,cook
+210,78,5,kind
+211,78,6,family
+212,79,1,passionate
+213,79,2,firey
+214,80,1,loud
+215,80,2,short
+216,80,3,good cook
+217,80,4,musical
+218,80,5,immigrant
+219,80,6,good at makeup
+220,81,1,Curvaceous
+221,81,2,rude
+222,81,3,insensitive
+223,81,4,long hair
+224,81,5,"""Hot Cheeto girls"""
+225,81,6,Maids
+226,82,1,Submissive women
+227,82,2,Maid
+228,82,3,Jealous
+229,82,4,Dramatic
+230,82,5,Passionate
+231,82,6,Beautiful
+232,82,7,Loyal
+233,82,8,Protective
+234,83,1,Comfort language in groups
+235,84,1,spicy
+236,84,2,whores
+237,84,3,don't speak English
+238,84,4,teen pregnancy
+239,84,5,unwed mothers
+240,85,1,Lazy
+241,85,2,Loud
+242,86,1,Loud
+243,86,2,"""Hot-tempered"""
+244,88,1,Short
+245,88,2,Large Behind
+246,88,3,Attitudes
+247,88,4,Incredible cooks
+248,91,1,Hard workers
+249,91,2,Support and are connected to their family
+250,91,3,Make good food
+251,92,1,Good at cooking
+252,92,2,Cleaners
+253,92,3,family oriented
+254,93,1,good cooks
+255,93,2,many children
+256,93,3,strict
+257,93,4,loud
+258,93,5,hot cheeto
+259,93,6,partiers
+260,93,7,loving
+261,94,1,Kind
+262,94,2,Loud
+263,94,3,Pretty
+264,95,1,House keeper
+265,95,2,Too many kids
+266,96,1,graceful
+267,96,2,family oriented
+268,96,3,bold
+269,96,4,creative
+270,96,5,lively
+271,97,1,Good at cooking
+272,97,2,Takes care of the home and children
+273,97,3,Short temper
+274,97,4,Loud/boisterous
+275,98,1,Cooks
+276,98,2,Short
+277,98,3,Loud
+278,98,4,Stay at home
+279,99,1,nurturing
+280,99,2,caring
+281,99,3,expressive
+282,99,4,loud
+283,99,5,hardworking
+284,99,6,fiery
+285,99,7,devoted
+286,99,8,faith
+287,99,9,fashionable
+288,99,10,exotic
+289,100,1,good at cooking
+290,100,2,loyal
+291,102,1,Moms
+292,102,2,Caring
+293,102,3,sweet
+294,102,4,family oriented
+295,102,5,spanish
+296,103,1,loud
+297,103,2,fun
+298,103,3,funny
+299,103,4,giving
+300,103,5,kind
+301,105,1,Cleaner
+302,105,2,Cook
+303,106,1,Mean
+304,106,2,Drug dealers
+305,106,3,Torta
+306,106,4,Tamales
+307,106,5,Large Families
+308,106,6,Short
+309,107,1,"Voluminous, long lashes"
+310,107,2,Nails done (long?)
+311,107,3,Pin straight hair
+312,108,1,Voluptuous
+313,108,2,Loud
+314,108,3,Pronounced accent
+315,108,4,Hypersexual
+316,108,5,Domestic partners
+317,109,1,Hardworking
+318,109,2,Loving
+319,109,3,Robust
+320,110,1,Crazy
+321,110,2,Party
+322,111,1,fiery
+323,111,2,opinionated
+324,111,3,attitude
+325,112,1,tamales
+326,113,1,Worker
+327,113,2,Nanny
+328,115,1,loud
+329,115,2,short
+330,115,3,food
+331,116,1,Compassionate
+332,116,2,Strong
+333,116,3,Family Oriented
+334,116,4,Driven
+335,116,5,Hard working
+336,117,1,Dancing
+337,117,2,Caretakers
+338,118,1,criminals
+339,120,1,music and dancing
+340,121,1,Hot Cheetos
+341,121,2,Long nails
+342,121,3,Slicked Hair
+343,122,1,hot
+344,122,2,more private/talks to their friends
+345,122,3,bilingual
+346,122,4,touchy
+347,123,1,attractive
+348,123,2,bad at driving
+349,124,1,Beautiful
+350,124,2,Good cooks
+351,124,3,Smart
+352,125,1,Cooks
+353,125,2,Cleaners
+354,125,3,loud
+355,126,1,Loud
+356,126,2,Reckless
+357,126,3,Fiery
+358,126,4,Sassy
+359,126,5,Family-centered
+360,126,6,Lazy
+361,126,7,Uneducated
+362,127,1,Loud
+363,127,2,Lots of makeup
+364,127,3,Big boobs
+365,127,4,Big butts
+366,127,5,Long hair
+367,127,6,Hot cheetos
+368,128,1,atractive
+369,128,2,big butt
+370,128,3,mean
+371,128,4,drink
+372,128,5,sell tamales
+373,128,6,good cooks
+374,129,1,Beautiful
+375,129,2,Sassy
+376,129,3,Black hair
+377,129,4,Gold accessories
+378,129,5,Purses
+379,129,6,Cute Dogs
+380,129,7,Strong Parental Figure
+381,129,8,Good Cooking
+382,130,1,Loud
+383,130,2,overly sexual
+384,130,3,maid
+385,130,4,illegal
+386,130,5,single
+387,132,1,Good cooks
+388,132,2,Inherently sexual
+389,132,3,Gossipy
+390,133,1,cooks
+391,133,2,short
+392,133,3,nice
+393,135,1,Short
+394,135,2,Denim
+395,135,3,Mothers
+396,135,4,Musicians
+397,135,5,Dancers
+398,135,6,Bandana shirts
+399,135,7,Lip liner
+400,135,8,Heavy makeup in younger Latina women
+401,135,9,idk
+402,135,10,idk
+403,136,1,cleaners
+404,136,2,short
+405,136,3,wont speak English
+406,137,1,sassy
+407,137,2,dramatic
+408,137,3,angry
+409,137,4,religous
+410,137,5,child abusing
+411,137,6,food maker
+412,137,7,bossy
+413,137,8,sexual
+414,137,9,stay at home mom
+415,138,1,Cook
+416,139,1,the way they talk
+417,139,2,the shade of their skin
+418,140,1,Uneducated
+419,141,1,loud
+420,143,1,hot cheeto girl
+421,143,2,quick tempered
+422,143,3,controling
+423,143,4,manipulative
+424,143,5,rude
+425,143,6,exotic
+426,143,7,hypersexualized
+427,143,8,dramatic
+428,143,9,suffering mother
+429,143,10,mamacita(objectification)
+430,144,1,Traditional values?
+431,145,1,beautiful
+432,145,2,seductive
+433,146,1,Toxica
+434,146,2,Sexy
+435,146,3,Fiesty
+436,146,4,Aggressive
+437,146,5,Masculine
+438,146,6,Ditsy
+439,146,7,Loud
+440,146,8,Rude
+441,146,9,Lot of kids
+442,146,10,Sleeping around
+443,147,1,cheetos
+444,147,2,immigrant
+445,148,1,good at cooking
+446,149,1,no idea
+447,150,1,loud
+448,150,2,gossips
+449,150,3,mean
+450,150,4,good cooks
+451,150,5,good dancers
+452,150,6,stupid
+453,150,7,rude
+454,151,1,big hoops
+455,151,2,hot chips
+456,152,1,fierce
+457,153,1,nurturing
+458,153,2,spicy
+459,153,3,feminine
+460,153,4,family oriented
+461,153,5,protective/loyal
+462,153,6,strong willed
+463,154,1,cleaner
+464,155,1,Spicy stereotypes
+465,155,2,Mother stereotypes
+466,156,1,spicy
+467,156,2,housemaid/cleaner
+468,156,3,submissive
+469,156,4,loud.dramatic
+470,157,1,Stay at home Mothers
+471,157,2,Loyal
+472,157,3,toxic
+473,157,4,Abusive
+474,157,5,Artist
+475,157,6,Cooks
+476,157,7,Caretakers
+477,157,8,Loud
+478,157,9,Big families
+479,157,10,Culture
+480,158,1,"Cook, Clean ""Housewife"""
+481,158,2,Job as a cleaner
+482,158,3,Large family
+483,158,4,BBLs and large rears
+484,158,5,"""Tortas"" + fatphobia"
+485,159,1,toxic
+486,159,2,loud
+487,159,3,emotional
+488,159,4,cleaning
+489,159,5,family bound
+490,159,6,single mother
+491,159,7,possessive
+492,159,8,nurturing
+493,159,9,appearance
+494,159,10,exotic
+495,160,1,attitude
+496,160,2,name
+497,160,3,language
+498,160,4,looks
+499,161,1,loud
+500,161,2,family oriented
+501,161,3,femenie
+502,162,1,Independent
+503,162,2,unique
+504,162,3,cultural
+505,163,1,excessive
+506,164,1,beautiful
+507,164,2,cheap
+508,164,3,multiple partners
+509,165,1,short
+510,165,2,dramatic
+511,167,1,smart
+512,167,2,hard working
+513,169,1,strong
+514,169,2,gender norms
+515,169,3,structure
+516,169,4,hot tempered
+517,169,5,loud
+518,169,6,lover
+519,169,7,Nurturing
+520,169,8,bold
+521,169,9,beauty
+522,171,1,pretty
+523,171,2,jewelry
+524,171,3,nails
+525,171,4,clothes
+526,171,5,skin tone
+527,171,6,music
+528,171,7,voice
+529,171,8,makeup
+530,171,9,hair
+531,171,10,dancing
+532,172,1,short
+533,172,2,loud
+534,172,3,loving
+535,172,4,aggressive
+536,173,1,maids
+537,173,2,cooks
+538,174,1,good makeup
+539,174,2,fake nails
+540,175,1,Aggressive
+541,175,2,Not afraid to speak their mind
+542,175,3,Opinionated
+543,176,1,Cleaning ladies
+544,177,1,fiery
+545,177,2,loud
+546,177,3,passionate
+547,177,4,exotic
+548,177,5,desirable
+549,177,6,maid
+550,177,7,single mother
+551,177,8,immigrant
+552,177,9,self sacrificing
+553,177,10,independent
+554,178,1,beautiful
+555,178,2,strong
+556,178,3,catholic
+557,178,4,mothers
+558,178,5,cooks
+559,178,6,angry
+560,179,1,sexually attractive qualities
+561,181,1,curvy
+562,182,1,Whores
+563,183,1,beautiful
+564,183,2,long curls
+565,183,3,hairy
+566,183,4,short
+567,183,5,accent
+568,183,6,culture
+569,183,7,food
+570,183,8,dancing
+571,183,9,loud
+572,183,10,extra
+573,185,1,housekeepers
+574,185,2,cleaners
+575,185,3,stay in the kitchen
+576,185,4,too many kids
+577,185,5,great at cooking
+578,185,6,strict
+579,185,7,poor
+580,185,8,messy
+581,185,9,subservant
+582,185,10,uneducated
+583,186,1,strict but loving
+584,186,2,really short
+585,186,3,good cooks
+586,187,1,Sassy
+587,189,1,Aggressive
+588,189,2,Spanish Speaking
+589,189,3,Tiger Mom
+590,189,4,Hot
+591,190,1,Overly dramatic
+592,190,2,“Crazy girlfriend”
+593,190,3,Loud / argumentative
+594,190,4,Sassy attitude
+595,190,5,Overly religious
+596,190,6,Loud laugh/voice
+597,190,7,Lives in crowded housing
+598,190,8,Good cooks
+599,190,9,Protective of family
+600,190,10,Good with children
+601,192,1,housewife/maid
+602,194,1,crazy
+603,194,2,psychotic
+604,195,1,Hypersexual
+605,195,2,Are strict mothers
+606,195,3,Love christmas
+607,195,4,Cook a lot
+608,195,5,Easily angered
+609,196,1,exotic
+610,196,2,loud
+611,196,3,sexualized
+612,196,4,meant to be mothers
+613,196,5,cleaning/cooking
+614,196,6,dancers
+615,196,7,stupid
+616,196,8,toxic
+617,196,9,hot tempered
+618,196,10,seductive
+619,197,1,I don't know/don't believe any steryotypes
+620,206,1,aggressive
+621,206,2,pushy
+622,208,1,Loving
+623,208,2,Sincere
+624,210,1,Beautiful
+625,210,2,Precious
+626,210,3,Loud
+627,211,1,hot tempered
+628,211,2,sexy
+629,213,1,hard working
+630,213,2,family person
+631,213,3,dressed nice
+632,213,4,specific hairstyles and makeup
+633,213,5,tone
+634,214,1,loud
+635,215,1,Large
+636,215,2,Good cook
+637,216,1,can cook
+638,216,2,strict
+639,216,3,sandal
+640,216,4,hardworking
+641,218,1,Angry
+642,219,1,cooks
+643,219,2,stays home
+644,219,3,traveled here
+645,219,4,takes care of children only
+646,219,5,cleans
+647,219,6,tidy the house all day
+648,219,7,uneducated
+649,219,8,doesn't speak English
+650,219,9,poor
+651,219,10,scared
+652,220,1,Spicy
+653,220,2,Cooks
+654,220,3,Cleaner
+655,220,4,Motherly
+656,220,5,Forward
+657,220,6,Energetic
+658,220,7,Personable
+659,221,1,hypersexual
+660,222,1,Make good food
+661,222,2,Good Dancers
+662,223,1,Soccer
+663,223,2,Hardworking
+664,223,3,Short
+665,223,4,Border Hoppers
+666,223,5,Burrito
+667,223,6,Tacos
+668,224,1,dramatic
+669,225,1,cooking
+670,225,2,big boobs
+671,225,3,big butt
+672,226,1,beautiful
+673,226,2,long hair
+674,226,3,glowy skin
+675,226,4,mothers to multiple children
+676,226,5,wives
+677,226,6,bilingual
+678,226,7,emotionally intelligent
+679,227,1,sassy/spicy
+680,227,2,loud
+681,227,3,lots of kids
+682,227,4,catholic submissive to men
+683,227,5,curvy
+684,227,6,long acrylic nails
+685,229,1,Sex labels
+686,229,2,Anger
+687,231,1,loud
+688,231,2,christian
+689,231,3,has a lot of kids
+690,233,1,hard working
+691,233,2,loud
+692,234,1,Loud
+693,234,2,Intense
+694,238,1,toxic
+695,238,2,crazy
+696,239,1,hard working
+697,240,1,good cooks
+698,242,1,good cooks
+699,242,2,hard working
+700,243,1,Short
+701,243,2,Spanish
+702,245,1,work as a maid
+703,245,2,cant speak english
+704,245,3,stupid
+705,246,1,Loud and controlling
+706,246,2,short temper
+707,247,1,not from America
+708,247,2,immigrants
+709,249,1,good cook
+710,249,2,family oriented
+711,249,3,strict
+712,250,1,Big family
+713,250,2,Chanclas
+714,251,1,independent
+715,251,2,traditional
+716,252,1,Strong
+717,252,2,Outspoken
+718,253,1,Immigrants
+719,254,1,Fiery
+720,254,2,Sassy
+721,254,3,Promiscuous
+722,254,4,Family oriented
+723,255,1,long hair
+724,255,2,has big families
+725,255,3,likes kids
+726,255,4,has lots of kids
+727,255,5,works housekeeping
+728,255,6,has multiple jobs
+729,255,7,resourceful
+730,255,8,works/studies as a nurse
+731,255,9,strong community amongst other Latina women
+732,255,10,smells like fragranced products
+733,256,1,hair
+734,256,2,accent
+735,257,1,hot cheeto girl
+736,257,2,long nails
+737,257,3,hard worker
+738,257,4,loud
+739,258,1,hard working
+740,259,1,bossy
+741,260,1,type of food
+742,260,2,good cook
+743,260,3,long dark hair
+744,260,4,tan skin tone
+745,260,5,brown eyes
+746,260,6,hard working
+747,262,1,mad
+748,262,2,"""maid"""
+749,262,3,caretakers
+750,262,4,cleaner
+751,264,1,do things around the house
+752,265,1,kind
+753,265,2,outgoing
+754,265,3,spanish-speaking
+755,267,1,"Maids, and other domestic labor"
+756,267,2,lots of children
+757,267,3,victims of abuse/trafficking
+758,267,4,Close family ties
+759,267,5,"Working + responsible for cooking/cleaning/laundry, etc."
+760,267,6,Forward/passionate
+761,268,1,Good cooks
+762,268,2,Motherly
+763,269,1,attractive
+764,269,2,stupid
+765,269,3,needy
+766,269,4,emotional
+767,270,1,non legal
+768,271,1,undocumented
+769,271,2,uneducated
+770,271,3,ghetto
+771,271,4,gang
+772,272,1,Angry
+773,272,2,toxic
+774,273,1,kind
+775,273,2,loving
+776,273,3,home
+777,274,1,Lots of makeup
+778,274,2,Housewife
+779,274,3,Likes to dance
+780,274,4,Not educated
+781,274,5,Fierce
+782,274,6,Demanding
+783,274,7,Strong
+784,275,1,Loud
+785,275,2,Short tempered
+786,277,1,dark hair
+787,277,2,brown skin
+788,277,3,curly or wavy hair
+789,277,4,petite size
+790,277,5,strong eyebrowws
+791,277,6,stiff posture
+792,277,7,short
+793,277,8,warm and kind
+794,277,9,friendly
+795,277,10,serious
+796,279,1,loud
+797,281,1,motherly
+798,281,2,short tempered
+799,282,1,good dancers
+800,282,2,loud
+801,283,1,dancers
+802,284,1,accent
+803,286,1,accents
+804,286,2,lots of kids
+805,286,3,nurturing
+806,287,1,worker
+807,289,1,BBL Drizzy
+808,290,1,loud
+809,290,2,confrontational
+810,291,1,Long hair
+811,291,2,Strong makeup
+812,291,3,Good cooking
+813,292,1,pretty
+814,293,1,loud
+815,294,1,Talkative
+816,294,2,Artistic or vibrant clothes
+817,294,3,Family oriented
+818,296,1,hypersexual
+819,296,2,sassy
+820,296,3,loud
+821,299,1,Annoying
+822,300,1,dramatic and passionate
+823,300,2,loud
+824,300,3,exotic
+825,300,4,maid
+826,300,5,nannies
+827,300,6,homemakers
+828,301,1,Headstrong
+829,301,2,stubborn
+830,301,3,short
+831,301,4,sassy
+832,301,5,outgoing
+833,301,6,healthcare worker
+834,301,7,cleaning lady
+835,302,1,They are also good dancers
+836,302,2,Beautiful singing voices
+837,302,3,They are usually mouse cleaners
+838,303,1,Beautiful
+839,303,2,Familial
+840,303,3,Meek or fierce
+841,303,4,House wife
+842,303,5,Good cooks
+843,304,1,Attractive
+844,304,2,Naggy
+845,304,3,Vain
+846,305,1,Caregivers
+847,305,2,Submissive
+848,305,3,Emotional
+849,305,4,Feminine
+850,306,1,strong and independent
+851,307,1,"i dont ""believe"" sterotypes are actually real"
+852,309,1,Loud
+853,309,2,Accent
+854,310,1,caretakers
+855,310,2,Stay-at-home work
+856,310,3,multiple children
+857,311,1,Hot Cheetos
+858,313,1,good cooks
+859,313,2,hard working
+860,313,3,have curvy bodies
+861,313,4,wear long nails
+862,313,5,hard working
+863,313,6,have lots of kids
+864,313,7,nice
+865,313,8,defensive
+866,313,9,speak spanish
+867,313,10,stay at home a lot
+868,314,1,loud
+869,314,2,rude
+870,314,3,their way or highway
+871,314,4,sandal
+872,314,5,abuser
+873,314,6,cheater
+874,314,7,gold chains
+875,314,8,big hoop earrings
+876,315,1,flirty
+877,316,1,loud
+878,316,2,likes hot chips
+879,316,3,lots of kids
+880,316,4,nannny
+881,316,5,ghetto
+882,317,1,caring
+883,319,1,submissive
+884,319,2,family
+885,319,3,religious
+886,319,4,hardworking
+887,319,5,mother
+888,319,6,good at cooking
+889,319,7,funny
+890,319,8,like rap music
+891,319,9,unmotivated in school
+892,319,10,short
+893,320,1,buzzballs
+894,320,2,big eye lashes
+895,320,3,crazy
+896,320,4,obsessive
+897,320,5,long ass nails
+898,320,6,lots makeup
+899,321,1,Fiesty
+900,321,2,Sarcastic
+901,322,1,pretty
+902,322,2,long hair
+903,322,3,nice eyes
+904,323,1,Undeducated
+905,323,2,Hot-tempered
+906,323,3,Lazy
+907,326,1,always in the kitchen
+908,326,2,lots of kids
+909,326,3,eyelash extensions
+910,326,4,sassy
+911,327,1,confident
+912,327,2,stratified gender roles (woman is typically homemaker)
+913,327,3,strong culinary skills
+914,327,4,catholic
+915,328,1,emotional
+916,328,2,dramatic
+917,328,3,hyper sexualized
+918,328,4,submissive
+919,328,5,family oriented
+920,328,6,uneducated
+921,328,7,domestic workers
+922,329,1,they can cook
+923,329,2,they are loud
+924,330,1,Loud
+925,330,2,Aggresive to their children
+926,330,3,More likely to be overweight
+927,330,4,Pursue jobs like cleaning
+928,330,5,Love to cook
+929,331,1,loud
+930,331,2,eat obnoxiously
+931,332,1,crazy
+932,332,2,loud
+933,332,3,strict
+934,332,4,attrctive
+935,333,1,Ghetto
+936,333,2,Lazy
+937,333,3,Uneducated
+938,333,4,Unmotivated
+939,333,5,Perfect
+940,333,6,Lots of children
+941,334,1,Cleaning jobs
+942,334,2,dancing and singing
+943,334,3,making good food
+944,335,1,Beautiful
+945,335,2,Good cooks
+946,335,3,Aggressive
+947,335,4,Immigrants
+948,337,1,big booty
+949,337,2,good dancers
+950,338,1,loud
+951,338,2,hot cheetos
+952,338,3,long nails
+953,339,1,toxic
+954,339,2,short-tempered
+955,339,3,black hair
+956,339,4,beat with the sandal
+957,339,5,steals from stores
+958,339,6,mini van
+959,339,7,never-ending convo
+960,339,8,never-ending argument
+961,340,1,hot tempered
+962,340,2,sexualized from online
+963,341,1,fiery
+964,341,2,passionate
+965,341,3,family-oriented
+966,341,4,sassy
+967,341,5,emotional
+968,341,6,dramatic
+969,341,7,gorgeous
+970,342,1,curvier figures
+971,342,2,"""spicy"""
+972,342,3,not academically inclined
+973,342,4,happily conform to the patriarchy
+974,342,5,catholic
+975,343,1,Comedic
+976,343,2,Objectified
+977,343,3,Subservient
+978,345,1,good at dancing
+979,345,2,has a lot of personality
